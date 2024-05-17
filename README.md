@@ -17,3 +17,5 @@ Public class Example5_2{
 
        if (str1.compareTo(str2)>0);
            system.out.println(" the string str1 > string str2");
+      }
+  }
