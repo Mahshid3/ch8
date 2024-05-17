@@ -3,7 +3,7 @@
 import java.util.*;
 Public class Example5_2{
   static Scanner concole=new Scanner (system.in);
-    Public staqtic void main(String[] args); {
+    Public static void main(String[] args); {
 
        system.out.print(" enter first string;");
        string str1=console.next();
